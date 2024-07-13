@@ -9,5 +9,4 @@ if you want to genrate keys, you need to use ssh-keygen
 Keys will be present in : /root/.ssh/
 
 if you want to skip entering through password , you can use key.
-now you can share the pub key with your remote server.
-
+now you can share the pub key with your remote servernew updatee
